@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sudeshna9392-boop/repository/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sudeshna9392-boop/repository/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/sudeshna9392-boop/repository/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/sudeshna9392-boop/repository/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sudeshna9392-boop/repository/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/sudeshna9392-boop/repository/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/sudeshna9392-boop/repository/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
